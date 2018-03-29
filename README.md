@@ -331,17 +331,6 @@ Decryptor通过单例模式对外提供调用。
         }
 ```
 
-## 开源地址
-
-代码托管到了GitHub，[musicDecryptor](https://github.com/jadepeng/musicDecryptor), 感兴趣的可以访问进行
-
-
----
->作者：Jadepeng
-出处：jqpeng的技术记事本--[http://www.cnblogs.com/xiaoqi](http://www.cnblogs.com/xiaoqi)
-您的支持是对博主最大的鼓励，感谢您的认真阅读。
-本文版权归作者所有，欢迎转载，但未经作者同意必须保留此段声明，且在文章页面明显位置给出原文连接，否则保留追究法律责任的权利。
-
 
   [1]: http://oyqmmpkcm.bkt.clouddn.com/1522310112266.jpg "1522310112266"
   [2]: http://oyqmmpkcm.bkt.clouddn.com/1522310257994.jpg "1522310257994"
